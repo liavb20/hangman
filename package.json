@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "vscodelearn",
+  "version": "1.0.0",
+  "main": "firstTime.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node firstTime.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
